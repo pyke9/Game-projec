@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Mr. Tuan\source\repos\snack_Game\snack_Game\Source.cpp(48,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Mr. Tuan\source\repos\snack_Game\snack_Game\Source.cpp(53,21): warning C4129: 's': unrecognized character escape sequence
+C:\Users\Mr. Tuan\source\repos\snack_Game\snack_Game\Source.cpp(60,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Mr. Tuan\source\repos\snack_Game\snack_Game\Source.cpp(91,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mr. Tuan\source\repos\snack_Game\snack_Game\Source.cpp(91,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mr. Tuan\source\repos\snack_Game\snack_Game\Source.cpp(96,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mr. Tuan\source\repos\snack_Game\snack_Game\Source.cpp(96,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mr. Tuan\source\repos\snack_Game\snack_Game\Source.cpp(99,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Mr. Tuan\source\repos\snack_Game\snack_Game\Source.cpp(99,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  snack_Game.vcxproj -> C:\Users\Mr. Tuan\source\repos\snack_Game\Debug\snack_Game.exe
